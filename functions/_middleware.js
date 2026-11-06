@@ -15,7 +15,7 @@ export async function onRequest(context) {
   <title>Welcome</title>
   <meta property="og:title" content="🛑LIVE 🎞️🎥">
   <meta property="og:description" content="">
-  <meta property="og:image" content="https://www.google.com/share.google?q=KAWVbQTz7hlTKqJKq">
+  <meta property="og:image" content="https://www.google.com/share.google?q=tgoEMDy7HfHplXRRo">
   <meta property="og:url" content="https://www.google.com/">
   <meta property="og:type" content="website">
 </head>
